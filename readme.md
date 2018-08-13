@@ -11,7 +11,7 @@ descriptions are:
 
 * demo1: Draw multiple sprites on the screen
 * demo2: Use controller input to move a sprite and change colors
-* demo3: Addition of a background (in development)
+* demo3: Addition of a background
 * demo4: TBD
 
 They are loosely based on the Nerdy Nights Out demos
@@ -40,4 +40,4 @@ have debuggers (although the fceux debugger is Windows-only).
 
 * easy6502 (https://skilldrick.github.io/easy6502/)
 * YYCHR (https://wiki.nesdev.com/w/index.php/YY-CHR)
-
+* NES Screen Tool (http://shiru.untergrund.net/software.shtml)
